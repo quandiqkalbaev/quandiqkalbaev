@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=0CFF32&background=000000&center=true&vCenter=true&multiline=true&width=845&height=200&lines=Hello!+Welcome+to+my+GitHub+profile!;I'm+Quandiq+Kalbaev%2C;21+y.o+Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=0CFF32&background=000000&center=true&vCenter=true&multiline=true&width=845&height=100&lines=Hello!+Welcome+to+my+GitHub+profile!;I'm+Quandiq+Kalbaev%2C;21+y.o+Front-End+Developer)](https://git.io/typing-svg)
 
 - 📚 Currently learning **Next.js**
 
