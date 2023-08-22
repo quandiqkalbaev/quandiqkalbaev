@@ -2,6 +2,8 @@
 
 - 📚 Currently learning **Next.js**
 
+- 🔗 Check out my [website](https://magsat.me/)
+
 - 📧 You can reach out to me via **quandiqkalbaev@gmail.com**
 
 <h4 align="left">⚙ Tech stack:</h4>
