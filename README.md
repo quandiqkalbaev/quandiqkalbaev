@@ -2,7 +2,7 @@
 
 - 📚 Currently learning **Next.js**
 
-- 🔗 Check out my [website](https://cv-quandiq.vercel.app/)
+- 🔗 Check out my [website](https://portfolio-quandiq.vercel.app/)
 
 - 📧 You can reach out to me via **quandiqkalbaev@gmail.com**
 
